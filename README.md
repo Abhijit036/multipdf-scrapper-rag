@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+👉 https://multipdf-scrapper-chatbot.streamlit.app/
+
+> Try the app: Upload PDFs or paste URLs and start chatting instantly 🚀
+
 # 🧠 RAG Nexus — Multi-PDF + Web Scrape RAG Chatbot
 
 A production-ready Retrieval-Augmented Generation (RAG) chatbot powered by
